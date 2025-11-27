@@ -69,14 +69,14 @@ The aim of this project is to:
 ---
 
 ## 📁 Project Structure
-
+```
 Arduino-LCD-Snake-Game/
 ├── src/ # Arduino sketch files (.ino)
 ├── docs/ # Project report, screenshot of the Wokwi circuit
 ├── videos/ # .txt files with YouTube links to demo and gameplay
 ├── README.md # This file
 └── LICENSE # MIT License
-
+```
 ---
 
 ## 🎥 Project Videos
