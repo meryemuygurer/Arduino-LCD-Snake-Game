@@ -81,7 +81,7 @@ Arduino-LCD-Snake-Game/
 
 ## 🎥 Project Videos
 
-- **Circuit Demo Video:** [YouTube Link](videos/hardware-setup-link.txt)  
+- **Circuit Demo Video:** [YouTube Link](https://www.youtube.com/watch?v=vwsQqGvnxbQ&feature=youtu.be)
 - **Gameplay Demo Video:** [YouTube Link](videos/gameplay-demo-link.txt)
 
 *(Videos are uploaded as unlisted on YouTube. Links are stored in .txt files inside the `videos/` folder.)*
